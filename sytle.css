@@ -1,0 +1,23 @@
+body {
+      background-color: #EAF6F6;
+    }
+
+    hr {
+        border-color: grey;
+         width:10%;  
+         border-width: 5px;
+         border-style: none;
+         border-top-style: dotted;
+    }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  .amrit{
+    border-radius: 100%;
+  } 
+
+  #header:hover {
+  background-color: yellow;
+  }
